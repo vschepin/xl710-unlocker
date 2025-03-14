@@ -1,2 +1,4 @@
 xl710_unlock
 .vscode
+.idea
+/cmake-build*
