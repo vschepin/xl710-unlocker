@@ -7,3 +7,4 @@ set(SRC
 )
 
 add_executable(xl710_unlock ${SRC})
+install(TARGETS xl710_unlock)
